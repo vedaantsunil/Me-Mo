@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1063956228511",
+    "firebase_url": "https://me-mo-92b1b.firebaseio.com",
+    "project_id": "me-mo-92b1b",
+    "storage_bucket": "me-mo-92b1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063956228511:android:736c152424e28ea8b8f5aa",
+        "android_client_info": {
+          "package_name": "com.example.MeMo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063956228511-qhug9lqp122no8l9k09ra0984fksista.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_LOGzPuX9NJr2MUjSOPnuTUEDSuktzzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063956228511-qhug9lqp122no8l9k09ra0984fksista.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

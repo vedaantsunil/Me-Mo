@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Me-Mo</string>
+    <string name="open_app_usage_setting">Open Apps with usage access settings</string>
+    <string name="last_time_used">"Last time used: "</string>
+    <string name="time_span">"Time span: "</string>
+
+    <string name="display_order_text">Sort by:</string>
+    <string name="app_name_label">App</string>
+    <string name="last_time_used_label">Last time used</string>
+    <!-- label for usage time -->
+    <string name="usage_time_label">Usage time</string>
+    <string name="tips_title">Need Permission!</string>
+    <string name="tips_ok">OK</string>
+    <string name="tips_copy">COPY</string>
+    <string name="copy_done">Copy Success</string>
+    <string name="tips">Before use this Application, you need to use adb tools to grant permission, copy below command and exec it on a PC:\n\n%1$s\n\nOr you can use root to grant permission.</string>
+    <string name="root_failure">root permission not granted</string>
+    <string name="instructions">
+        Press the glass of water after you\'ve hydrated.</string>
+    <string name="water_increment_content_desc">Press to record drinking water</string>
+    <string name="charging_plug_content_desc">charging plug image</string>
+
+    <string name="default_water_count">0</string>
+    <string name="default_charge_notification_count">Hydrate while charging reminder sent 0 times</string>
+
+    <plurals name="charge_notification_count">
+        <item quantity="zero">Hydrate while charging reminder sent %d times</item>
+        <item quantity="one">Hydrate while charging reminder sent %d time</item>
+        <item quantity="other">Hydrate while charging reminder sent %d times</item>
+    </plurals>
+
+
+    <!-- Strings for Notifications and Toasts -->
+    <string name="water_chug_toast">GLUG GLUG GLUG Drink More</string>
+
+    <string name="charging_reminder_notification_title">Device Charging - Where\'s that water?</string>
+    <string name="charging_reminder_notification_body">There\'s never a better time to drink water than when you know your phone is charging. Drink up!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="textLeftSpinner">Show unlock count for the</string>
+
+    <string name="default_counter">0</string>
+
+
+    -
+    <string-array name="date_selection_array">
+
+        <item>Last 24h</item>
+
+        <item>Last week</item>
+
+        <item>last month</item>
+
+        <item>last 6 months</item>
+
+        <item>last millenium</item>
+
+    </string-array>
+    <string name="explanation_access_to_appusage_is_not_enabled">Failed to retrieve app usagestatistics. You may need to enable accessfor this app through Settings > Security > Apps with usage access </string>
+
+
+    <string-array name="action_timespan">
+
+    <item>Daily</item>
+
+    <item>Weekly</item>
+
+    <item>Monthly</item>
+
+    <item>Yearly</item>
+
+</string-array>
+
+
+    <string-array name="action_sort">
+
+    <item>Name</item>
+
+    <item>Percentage</item>
+
+</string-array>
+
+
+</resources>
